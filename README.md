@@ -10,12 +10,14 @@ totaal zijn er 3 pogingen toegelaten.
 Gebruik sterretjes om de 6 codecijfers aan te geven en gebruik een
 berichtvenster om het aantal resterende pogingen aan te geven.
 
-![Afbeelding met tekst, schermopname, Lettertype, nummer Automatisch
-gegenereerde
-beschrijving](./media/image1.png)![Afbeelding met tekst, schermopname,
-Lettertype, nummer Automatisch gegenereerde
-beschrijving](./media/image2.png)![Afbeelding met schermopname, tekst,
+![Afbeelding met schermopname, tekst,
 Rechthoek, plein Automatisch gegenereerde
 beschrijving](./media/image3.png)
 
-Nog 3 codecijfers in te geven.
+![Afbeelding met tekst, schermopname, Lettertype, nummer Automatisch
+gegenereerde
+beschrijving](./media/image1.png)
+
+![Afbeelding met tekst, schermopname,
+Lettertype, nummer Automatisch gegenereerde
+beschrijving](./media/image2.png)
